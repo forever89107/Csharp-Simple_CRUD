@@ -1,0 +1,118 @@
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\1\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\新資料夾\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+C:\Users\J305\Desktop\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+C:\Users\J305\Desktop\基本介面\基本介面\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+C:\Users\J305\Desktop\新增與查詢\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+C:\Users\J305\Desktop\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\剩下刪除更新\剩下刪除更新\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\bin\Debug\finA0334407.exe.config
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\bin\Debug\finA0334407.exe
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\bin\Debug\finA0334407.pdb
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.csprojResolveAssemblyReference.cache
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\Document\Works\C#\成績資料庫 - 期末\備份\finA0334407\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.Cache
+D:\Document\Works\C#\成績資料庫 - 期末\finA0334407\finA0334407\bin\Debug\資料庫.accdb
+D:\作品區\C# Simple_CRUD\finA0334407\bin\Debug\資料庫.accdb
+D:\作品區\C# Simple_CRUD\finA0334407\bin\Debug\finA0334407.exe.config
+D:\作品區\C# Simple_CRUD\finA0334407\bin\Debug\finA0334407.exe
+D:\作品區\C# Simple_CRUD\finA0334407\bin\Debug\finA0334407.pdb
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.Form1.resources
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.Properties.Resources.resources
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.csproj.GenerateResource.cache
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.csproj.CoreCompileInputs.cache
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.exe
+D:\作品區\C# Simple_CRUD\finA0334407\obj\Debug\finA0334407.pdb
